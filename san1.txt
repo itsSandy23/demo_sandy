@@ -1,1 +1,5 @@
 HI THIS MY FIRST GIT TXT FILE TO DO commite
+
+
+
+Hi i am changing this file to check the commite hashid to check the log
